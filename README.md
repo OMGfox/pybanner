@@ -1,8 +1,8 @@
 # pybanner
 The program prints the user string in a nice way   
 
-English
+English  
 ![example](img/example_en.png "Example")
 
-Russian
+Russian  
 ![example_ru](img/example_ru.png "Example_ru")
